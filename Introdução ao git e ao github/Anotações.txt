@@ -1,0 +1,3 @@
+Link para donwload: https://git-scm.com/download/win
+
+O Git Bsh é um terminal extendido para otimizar o uso do Git.
